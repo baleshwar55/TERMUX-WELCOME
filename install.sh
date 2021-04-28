@@ -21,7 +21,7 @@ echo "Installed All Packages" |lolcat
 echo "========================="
 echo "Ready To Go.........." |lolcat
 echo "========================="
-echo "Done By @Certified_youtuber" |lolcat
+echo "Done By @Baleshwar" |lolcat
 echo "========================="
 echo "Restart Your Termux App" |lolcat
 echo "========================="
